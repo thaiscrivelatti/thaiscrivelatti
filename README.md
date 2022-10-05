@@ -14,12 +14,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 
-## Stats
-<div align = "space-between">
-<img heigth="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaiscrivelatti&layout=compact" />
-<img width="450" src="https://github-readme-stats.vercel.app/api?username=thaiscrivelatti&show_icons=true&theme=cobalt&count_private=true&hide=stars,issues" />
-  </div>
-  
 <!--
 **thaiscrivelatti/thaiscrivelatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
