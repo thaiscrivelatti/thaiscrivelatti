@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👩 My name is Thais
-- 💻 Full-stack developer at [Loupen](https://loupenbrasil.com.br/)
+- 💻 Full-stack developer at [Nortrez](https://nortrez.com/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaiscrivelatti/)
   
