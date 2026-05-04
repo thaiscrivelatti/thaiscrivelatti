@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👩 My name is Thais
-- 💻 Software Engineer at [Loupen](https://www.pdv365.com.br/)
+- 💻 Software Engineer at [PDV365](https://www.pdv365.com.br/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaiscrivelatti/)
   
